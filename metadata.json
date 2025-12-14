@@ -1,0 +1,5 @@
+{
+  "name": "ATS Resume Fixer",
+  "description": "A niche-focused AI tool to optimize resumes for Applicant Tracking Systems (ATS), generate cover letters, and provide keyword gap analysis.",
+  "requestFramePermissions": []
+}
